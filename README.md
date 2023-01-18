@@ -13,9 +13,9 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/{USERNAME}">
-  <img height="180em" width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api?username={USERNAME}&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username={USERNAME}&layout=compact&langs_count=7&theme=onedark"/>
+  <a href="https://github.com/hvsantos">
+  <img height="180em" width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hvsantos&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hvsantos&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>

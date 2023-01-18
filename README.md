@@ -1,14 +1,16 @@
-<h1 align="center">Hi 👋, I'm Henrique Vilela dos Santos</h1>
+<h1 align="center">Hi There👋, I'm Henrique Vilela dos Santos</h1>
 <h3 align="center">I'm currently studying at Trybe.</h3>
 
 - 🌱 Learning **React JS**
 
 - 💬 Ask me about **React JS**
 
+- 🔭 I've plans to study about BackEnd
+
 - 📫 How to reach me **hv_santos@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
-<a href="linkedin.com/in/hvsantos00">LinkedIn</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hvsantos00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hvsantos00/" height="30" width="40" /></a>
 <p align="left">
 </p>
 

@@ -1,11 +1,11 @@
 <h1 align="center">Hi There👋, I'm Henrique Vilela dos Santos</h1>
 <h3 align="center">I'm currently studying at Trybe.</h3>
 
-- 🌱 Learning **React JS**
+- 🌱 Learning **Docker**
 
 - 💬 Ask me about **React JS**
 
-- 🔭 I've plans to study about BackEnd
+- 🔭 I've plans to study about C#
 
 - 📫 How to reach me **hv_santos@outlook.com**
 

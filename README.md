@@ -1,7 +1,7 @@
 <h1 align="center">Hi There👋, I'm Henrique Vilela dos Santos</h1>
 <h3 align="center">I'm currently studying at Trybe.</h3>
 
-- 🌱 Learning **Docker**
+- 🌱 Learning **SQL**
 
 - 💬 Ask me about **React JS**
 

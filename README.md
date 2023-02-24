@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React JS**
 
-- 🔭 I've plans to study about C#
+- 🔭 I've plans to study about **C#**
 
 - 📫 How to reach me **hv_santos@outlook.com**
 

@@ -1,9 +1,9 @@
 <h1 align="center">Hi There👋, I'm Henrique Vilela dos Santos</h1>
 <h3 align="center">I'm currently studying at Trybe.</h3>
 
-- 🌱 Learning **SQL**
+- 🌱 Learning **Node JS**
 
-- 💬 Ask me about **React JS**
+- 💬 Ask me about **React JS & Node JS**
 
 - 🔭 I've plans to study about **C#**
 
